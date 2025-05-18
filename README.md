@@ -1,4 +1,4 @@
-### Hi there 👋
-Perkenalkan nama saya **Suci Ramadhani Lubis**
+# 🚀 Welcome to my github!
 
-Saya seorang mahasiswa jurusan Teknik Informatika di Institut Teknologi Padang. Saya berasal dari Sumatera Utara tepatnya di Kota Medan. 
+Hi there! 👋 I'm Suci Ramadhani LUbis a passionate developer who loves building clean, performant and user-focused web apps. 
+This GitHub is where I share my open source projects, experiments and collaborations.
