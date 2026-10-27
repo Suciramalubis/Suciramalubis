@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Padang%2C%20ID-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Medan-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge" />
 <br/>
 
@@ -48,15 +48,6 @@ Hi! I'm **Suci Ramadhani Lubis**, a passionate developer from **Padang, West Sum
         <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
       </p>
       <a href="https://github.com/Suciramalubis/SIG-KOTA-PADANG">🔗 View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 Notes App with RESTful API</h3>
-      <p>A notes application powered by a RESTful API, covering full CRUD operations with a clear separation between frontend and backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <a href="https://github.com/Suciramalubis/Notes-App-dengan-Resfull-Api">🔗 View Repository</a>
     </td>
   </tr>
 </table>
